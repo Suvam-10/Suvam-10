@@ -4,7 +4,7 @@
 - I’m looking to collaborate on ...
 - How to reach me mohapatrasuvam179@gmail.com
 - I'm a 2🌟 coder at codechef
-- I have Specialist badge with Exp-9226 in CodeStudio
+- I have Expert(Level 7) badge with Exp- 14460 in CodeStudio
 
 <!---
 Suvam-10/Suvam-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
